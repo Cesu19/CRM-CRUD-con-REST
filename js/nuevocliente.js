@@ -1,4 +1,5 @@
 import { mostrarAlerta } from './funciones.js';
+import { nuevoCliente } from './API.js';
 
 ( function() {
 
@@ -26,7 +27,7 @@ import { mostrarAlerta } from './funciones.js';
             return;
         }
 
-        console.log('Se paso la validacion correctamente');
+        nuevoCliente(cliente);
     }
     // Función de validación
     function validar(obj) {
