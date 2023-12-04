@@ -1,13 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "El Javo",
-      "email": "Javo@gmail.com",
-      "telefono": "12313456",
-      "empresa": "VVLC",
-      "id": 1
-    },
-    {
       "nombre": "Cachorro",
       "email": "Cachorritopromiscuo@gmail.com",
       "telefono": "248569874",
