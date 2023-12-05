@@ -6,6 +6,13 @@
       "telefono": "248569874",
       "empresa": "Cachorrera S.A",
       "id": 2
+    },
+    {
+      "nombre": "Cesu",
+      "email": "Cesu@gmail.com",
+      "telefono": "12341231412",
+      "empresa": "Empresita",
+      "id": 3
     }
   ]
 }
